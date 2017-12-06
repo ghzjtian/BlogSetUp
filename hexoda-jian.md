@@ -2,6 +2,7 @@
 
 >1.把 Hexo 博客发布到 GitHub 上面.
 >2.注意 Hexo 的格式要求(:后预留空格).
+>3.源文件都在 ```source```文件夹中,如果需要保存源文件(.md)，需要另起一个 GitHub 仓库去存储.
 
 ###[1.安装hexo](#install_hexo)
 ###[2.建站](#start_hexo)
