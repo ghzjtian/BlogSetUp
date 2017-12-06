@@ -2,6 +2,9 @@
 
 >GitHub: https://github.com/litten/hexo-theme-yilia
 
+>从作者的博客备份中，直接 clone 并修改.
+>https://github.com/litten/BlogBackup
+
 ###* 1.git clone 主题.
 ###* 2.把主题放到 themes 下面.
 ###* 3.在 ```_config.yml``` 中把
