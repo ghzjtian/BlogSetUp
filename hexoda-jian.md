@@ -55,7 +55,7 @@ hexo d
 
 ###4.错误<a name="error_solve"/>
 
-* 1.发现错误,就算是像 '教程1' 说的那样，把 git 改为 github ,再运行```npm install hexo-deployer-git --save``` 也没用.
+* 1.发现错误```Deployer not found: git```,就算是像 '教程1' 说的那样，把 git 改为 github ,再运行```npm install hexo-deployer-git --save``` 也没用.
 >教程1: https://github.com/hexojs/hexo/issues/1040
 ```
 tiandeMacBook-Pro-2:myBlog tianzeng$ hexo d
