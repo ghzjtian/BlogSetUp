@@ -25,8 +25,9 @@ theme: hexo-theme-yilia
 
 ###*4.点击所有文章，但没显示,需要设置<a name="error_all_article"/>
 缺失模块。
-1、请确保node版本大于6.2
-2、在博客根目录（注意不是yilia根目录）执行以下命令：
+
+* 1、请确保node版本大于6.2
+* 2、在博客根目录（注意不是yilia根目录）执行以下命令：
 
 ```
 npm i hexo-generator-json-content --save
